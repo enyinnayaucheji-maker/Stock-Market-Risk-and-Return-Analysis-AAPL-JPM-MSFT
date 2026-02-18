@@ -57,7 +57,6 @@ Following data preparation, structured analysis was performed across:
 - `/data/raw` — Original CSV datasets from Stooq
 - `/sql` — BigQuery SQL scripts (raw checks → combined model → metrics → reporting queries)
 - `/tableau/dashboard_screenshots` — Dashboard and supporting visuals
-- `/docs` — Project report
 
 ## Dashboard
 - Tableau Public link: **[View on Tableau Public](https://public.tableau.com/views/StockRiskReturnAnalysisDashboard/StockRiskReturnAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
