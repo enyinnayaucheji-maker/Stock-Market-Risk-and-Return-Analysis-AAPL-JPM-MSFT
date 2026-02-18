@@ -1,13 +1,13 @@
 ## Dashboard Preview
 
 ### Full Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ### Volatility (30-Day Rolling)
-![Volatility](Volatility.png)
+![Volatility](images/Volatility.png)
 
 ### Correlation (AAPL vs MSFT)
-![Correlation](Correlation.png)
+![Correlation](images/Correlation.png)
 
 # Stock-Market-Risk-and-Return-Analysis-AAPL-JPM-MSFT (SQL + BigQuery + Tableau)
 ## Overview
