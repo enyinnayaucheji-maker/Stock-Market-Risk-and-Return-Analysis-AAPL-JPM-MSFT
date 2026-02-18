@@ -60,7 +60,7 @@ Following data preparation, structured analysis was performed across:
 - `/docs` — Project report
 
 ## Dashboard
-- Tableau Public link: **[![View on Tableau Public](https://public.tableau.com/views/StockRiskReturnAnalysisDashboard/StockRiskReturnAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+- Tableau Public link: **[View on Tableau Public](https://public.tableau.com/views/StockRiskReturnAnalysisDashboard/StockRiskReturnAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## How to Reproduce (High Level)
 1. Upload the CSVs in `/data/raw` to BigQuery.
