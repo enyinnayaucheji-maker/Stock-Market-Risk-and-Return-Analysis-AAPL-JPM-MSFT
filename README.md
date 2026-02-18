@@ -1,13 +1,13 @@
 ## Dashboard Preview
 
 ### Full Dashboard
-![Dashboard](images/Stock Risk & Return Analysis Dashboard.png)
+![Dashboard]([images/Stock Risk & Return Analysis Dashboard.png](https://github.com/enyinnayaucheji-maker/Stock-Market-Risk-and-Return-Analysis-AAPL-JPM-MSFT/commit/8ec93b6da9c98c2d53eba5e23e1c47b9cfe1178f#diff-6e73c4f3d3bcfb2d0dd6ad8ef7e756cb991db0d464a2bb1246740c7d28cdb802))
 
 ### Volatility (30-Day Rolling)
-![Volatility](images/Rolling Volatility.png)
+![Volatility]([images/Rolling Volatility.png](https://github.com/enyinnayaucheji-maker/Stock-Market-Risk-and-Return-Analysis-AAPL-JPM-MSFT/commit/8ec93b6da9c98c2d53eba5e23e1c47b9cfe1178f#diff-5766f6f91ac84b75c4d5df346f111e982464baff61dfc68e023832f02014f58d))
 
 ### Correlation (AAPL vs MSFT)
-![Correlation](images/Daily Return Correlation_ AAPL vs MSFT.png)
+![Correlation]([images/Daily Return Correlation_ AAPL vs MSFT.png](https://github.com/enyinnayaucheji-maker/Stock-Market-Risk-and-Return-Analysis-AAPL-JPM-MSFT/commit/8ec93b6da9c98c2d53eba5e23e1c47b9cfe1178f#diff-9e0e867dfde448dad0e1a418f4c37ce3d69a81586366c57ac79b8672b799d777))
 
 # Stock-Market-Risk-and-Return-Analysis-AAPL-JPM-MSFT (SQL + BigQuery + Tableau)
 ## Overview
