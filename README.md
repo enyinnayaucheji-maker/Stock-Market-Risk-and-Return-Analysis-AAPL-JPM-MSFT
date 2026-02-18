@@ -7,7 +7,7 @@
 ![Volatility](images/Rolling Volatility.png)
 
 ### Correlation (AAPL vs MSFT)
-![Correlation](images/Daily Return Correlation AAPL vs MSFT.png)
+![Correlation](images/Daily Return Correlation_ AAPL vs MSFT.png)
 
 # Stock-Market-Risk-and-Return-Analysis-AAPL-JPM-MSFT (SQL + BigQuery + Tableau)
 ## Overview
