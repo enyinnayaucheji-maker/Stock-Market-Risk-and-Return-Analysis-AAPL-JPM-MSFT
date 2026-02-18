@@ -3,12 +3,6 @@
 ### Full Dashboard
 ![Dashboard](images/dashboard.png)
 
-### Volatility (30-Day Rolling)
-![Volatility](images/Volatility.png)
-
-### Correlation (AAPL vs MSFT)
-![Correlation](images/Correlation.png)
-
 # Stock-Market-Risk-and-Return-Analysis-AAPL-JPM-MSFT (SQL + BigQuery + Tableau)
 ## Overview
 This project analyzes historical stock market trading data to understand how different stocks behave over time in terms of returns, volatility, and relationships with one another. The goal is to move beyond basic price charts and extract practical insights about risk and diversification.
